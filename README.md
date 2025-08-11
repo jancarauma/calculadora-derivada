@@ -2,6 +2,8 @@
 
 O programa recebe uma função diferenciável de variável única em `x` e realiza diferenciação explícita para produzir a derivada da função como saída. O código fonte pode ser compilado com o comando `make` e limpo com `make clean`. O programa pode ser executado através do arquivo executável `derivative` com `./derivative`.
 
+<img width="722" height="424" alt="image" src="https://github.com/user-attachments/assets/b1e2eee6-3da8-47a8-8ac3-2a33329cdfaa" />
+
 ### Propósito
 
 A criação do programa surgiu da motivação de implementar uma calculadora de derivadas matemáticas que permitisse entradas flexíveis do usuário, e foi apresentada na disciplina de programação estruturada durante a faculdade. Como resultado, a implementação do programa suporta uma ampla gama de estilos de entrada flexíveis. Por exemplo, o programa interpreta as seguintes expressões como equivalentes, gerando uma saída consistente:
