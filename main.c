@@ -53,7 +53,7 @@ void print_header(void) {
     printf("Digite uma função de x e receba sua derivada.\n");
     printf("Comandos especiais:\n");
     printf("  help  -> mostrar ajuda\n");
-    printf("  exit  -> sai do programa\n");
+    printf("  exit  -> sair do programa\n");
     printf("-------------------------------------------\n");
 }
 
